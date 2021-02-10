@@ -1,4 +1,4 @@
-[![](https://res.cloudinary.com/dqqrsraas/image/upload/v1612830984/discord_kditpu.png)](https://youtu.be/GqUdrGO_y_0 "Click to play on Youtube")
+[![](https://res.cloudinary.com/dqqrsraas/image/upload/v1612830984/discord_kditpu.png)](https://youtu.be/c6oHqa0yr-w "Click to play on Youtube")
 <p>Click to play on Youtube</p>
 
 <h1>Discord Clone</h1>
