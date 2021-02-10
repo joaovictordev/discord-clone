@@ -1,4 +1,5 @@
-![demo](https://res.cloudinary.com/dqqrsraas/image/upload/v1612830984/discord_kditpu.png)
+[![](https://res.cloudinary.com/dqqrsraas/image/upload/v1612830984/discord_kditpu.png)](https://youtu.be/GqUdrGO_y_0 "Click to play on Youtube")
+<p>Click to play on Youtube</p>
 
 <h1>Discord Clone</h1>
 <p>This repo contains the code for a Discord UI clone made with ReactJS.</p>
@@ -23,5 +24,5 @@ yarn
 ```
 start the application and access via browser http://localhost:3000:
 ```
-yarn dev
+yarn start
 ```
